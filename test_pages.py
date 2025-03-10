@@ -5,7 +5,6 @@ from product_page import ProductPage
 from pc_category_page import PCCategoryPage
 from registration_page import RegistrationPage
 
-# Настройка драйвера Firefox
 
 @pytest.fixture
 def main_page(driver):
